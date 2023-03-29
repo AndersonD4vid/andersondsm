@@ -28,7 +28,8 @@ export default function Home() {
               profissional é a capacidade de reunir
               amigos e juntar nossos diferentes conhecimentos 
               e nossa criatividade para 
-              solucionar algum problema.
+              solucionar algum problema. Atualmente fazendo Bootcamp na DIO, 
+              uma plataforma de ensino gratuita, onde você pode estudar "sem pagar".
             </p>
           </div>
 
